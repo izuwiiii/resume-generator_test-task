@@ -5,3 +5,4 @@ cd <repo-folder>
 npm install
 npm start
 ```
+Your site will appear at http://localhost:5173/
